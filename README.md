@@ -1,6 +1,6 @@
 # Requierments
 
-```python
+```shell
 pip install numpy matplotlib
 ```
 
